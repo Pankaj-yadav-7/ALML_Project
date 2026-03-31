@@ -70,8 +70,7 @@ README.md
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/ai-fitness-suggester.git
-   cd ai-fitness-suggester
+    https://github.com/Pankaj-yadav-7/ALML_Project.git
    ```
 
 2. Install dependencies:
