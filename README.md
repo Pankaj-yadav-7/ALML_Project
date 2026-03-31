@@ -2,7 +2,7 @@
 
 A beginner-friendly AI + Machine Learning project that provides personalized workout and diet recommendations based on user inputs like age, weight, height, gender, and fitness goals.
 
-Built as a first-year B.Tech (CSE in AI & ML) capstone project.
+Built as a first-year B.Tech (CSE in AI & ML) project.
 
 ---
 
