@@ -1,0 +1,13 @@
+age,weight_kg,goal_code,workout_type
+18,60.0,0,Cardio
+22,85.0,1,Weightlifting
+25,70.0,0,Cardio
+30,95.0,1,Weightlifting
+45,65.0,0,Yoga
+50,90.0,1,Weightlifting
+20,55.0,0,Cardio
+23,100.0,1,Weightlifting
+35,80.0,0,HIIT
+40,75.0,1,Weightlifting
+28,68.0,0,Cardio
+55,88.0,0,Yoga
